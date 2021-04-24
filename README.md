@@ -1,1 +1,1 @@
-# Swing trading risk management on 44 moving average
+# Swing Trading Risk Management on 44 Moving Average
